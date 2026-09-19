@@ -5,12 +5,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I’m Roufi
+
+I’m a Computer Engineering student at Toronto Metropolitan University, interested in software development, algorithms, and embedded systems.
+
+I’m building projects that connect engineering concepts with working software, with a focus on testing, understanding design choices, and measuring performance.
+
+### Currently working on
+
+* A C++ Rubik’s Cube solver comparing BFS, DFS, IDDFS, and IDA*.
+* Strengthening my Python, data structures, and algorithms skills.
+* Preparing for Summer 2027 co-op opportunities.
+
+### Interests
+
+Search algorithms · Backend systems · Embedded software · Automation
+
+Based in Toronto, Canada.
+
 -->
