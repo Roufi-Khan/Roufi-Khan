@@ -1,6 +1,6 @@
 # Hi, I’m Roufi
 
-I’m a third-year Computer Engineering student at Toronto Metropolitan University, based in Toronto, Canada.
+I’m a fourth-year Computer Engineering student at Toronto Metropolitan University, based in Toronto, Canada.
 
 I’m interested in software development, algorithms, and embedded systems. Through coursework and personal projects, I’m developing my skills in programming, debugging, testing, and working with hardware.
 
