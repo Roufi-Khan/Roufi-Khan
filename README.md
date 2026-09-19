@@ -1,26 +1,24 @@
-## Hi there 👋
-
-<!--
-**Roufi-Khan/Roufi-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # Hi, I’m Roufi
 
-I’m a Computer Engineering student at Toronto Metropolitan University, interested in software development, algorithms, and embedded systems.
+I’m a third-year Computer Engineering student at Toronto Metropolitan University, based in Toronto, Canada.
 
-I’m building projects that connect engineering concepts with working software, with a focus on testing, understanding design choices, and measuring performance.
+I’m interested in software development, algorithms, and embedded systems. Through coursework and personal projects, I’m developing my skills in programming, debugging, testing, and working with hardware.
 
-### Currently working on
+## Current work
 
-* A C++ Rubik’s Cube solver comparing BFS, DFS, IDDFS, and IDA*.
-* Strengthening my Python, data structures, and algorithms skills.
-* Preparing for Summer 2027 co-op opportunities.
+- **Rubik’s Cube Solver:** A C++20 project comparing BFS, DFS, IDDFS, and IDA*, with automated tests, solution verification, and reproducible benchmarks.
+- Strengthening my Python and data structures and algorithms skills.
+- Exploring how software and hardware work together through microcontroller and digital systems coursework.
 
-### Interests
+## Technical interests
 
-Search algorithms · Backend systems · Embedded software · Automation
+- Software development and backend systems
+- Search algorithms and performance analysis
+- Embedded software and digital systems
+- Python automation
 
-Based in Toronto, Canada.
+## Co-op opportunities
 
--->
+I’m seeking **Winter or Summer 2027 co-op opportunities**, starting in January or May, in software development, embedded systems, or related engineering roles.
+
+I’m interested in contributing to practical projects, learning from experienced engineers, and connecting with other students and developers.
